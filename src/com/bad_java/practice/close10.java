@@ -2,7 +2,7 @@ package com.bad_java.practice;
 
 public class close10 {
     public static void main(String[] args) {
-        int a = 8;
+        int a = 8; //commit #1
         int b = 13;
         int res = Fun(a,b);
         System.out.println(res);
